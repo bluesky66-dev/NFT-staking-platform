@@ -1,4 +1,4 @@
-# NFY-Staking-Platofrm
+# NFT-Staking-Platofrm
 Staking platform for Non-Fungible Yearn.
 
 Platform will open with two staking pools. NFY staking pool and NFY/ETH LP staking pool.
